@@ -1,0 +1,28 @@
+.flexbox-layout
+{
+    display: flex;
+    flex-direction: column;
+    padding: 2%;
+}
+
+figure
+{
+    max-width: 80%;
+
+}
+
+figcaption
+{
+    font-size: x-small;
+}
+
+table
+{
+    font-size: x-small;
+}
+
+body
+{
+    margin: 0%;
+    max-width: 100%;
+}
